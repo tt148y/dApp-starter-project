@@ -13,7 +13,7 @@ const App = () => {
   const [allWaves, setAllWaves] = useState([]);
   console.log("currentAccount: ", currentAccount);
   // デプロイされたコントラクトのアドレスを保持する変数を作成
-  const contractAddress = "0xc81Df9BC0271f147D699b3f433374aCa44E72d8A";
+  const contractAddress = "0x9D0926925Cc5dbEcda135ae751a58a7f1D19609F";
   // ABIの内容を参照する変数を作成
   const contractABI = abi.abi;
 
